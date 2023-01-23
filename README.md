@@ -1,14 +1,19 @@
-### Hi there 👋, my name is Alvaro
-#### I am Developer
-![I am Developer](https://img.freepik.com/vector-premium/banner-conceptos-palabra-front-end-programacion-aplicaciones-web_106317-84.jpg?w=2000)
+<h2> Hi, I'm Alvaro!</h2>
+</br>Developer at <a href="https://www.teleperformance.com/en-us/locations/argentina-site/argentina/">Teleperformance Argentina</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
+</em></p>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+[![Linkedin](https://img.shields.io/badge/-alvarojotar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-alberto-jotar)](https://www.linkedin.com/in/alvaro-alberto-jotar/)
+[![GitHub Alvaro](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Aljotar)
 
-Skills: JS / HTML / CSS / REACT / TYPESCRIPT / ANGULAR
 
-- 🔭 I’m currently working on TELEPERFORMANCE ARGENTINA as developer 
-- 🌱 I’m currently learning Angular 
+### A little more about me...  
+
+```javascript
+const Alvaro = {
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Angular, Node, Styled-Components, Bootstrap]
+}
+```
+
+
 - 📫 How to reach me: you can contact me at this email jotaralvaro@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Aljotar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/alvaro-alberto-jotar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/alvaro.jotar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/alvarojotar//)
